@@ -1,5 +1,9 @@
 {
   "app": "Shraddha ToDo App",
-  "version": "1.0",
-  "status": "development"
+  "version": "1.1",
+  "status": "staging",
+  "api_chnages":{
+    "updated_by":"Shraddha_new",
+    "notes":"Added status and version update"
+  }
 }
